@@ -1,5 +1,0 @@
-= 1.0.0 =
-- Initial release.
-- AJAX login/register/forgot forms.
-- Basic rate limit and nonce protection.
-
